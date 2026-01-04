@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi — I'm Tanmay
 
-<!--
-**TanmayEngResDev777/TanmayEngResDev777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at IIIT-Delhi. My current focus is on strengthening core CS concepts, improving code quality, and building projects that help me apply what I learn.
 
-Here are some ideas to get you started:
+## 🧠 Areas I'm working on
+- Data structures and algorithms
+- Backend fundamentals and basic systems concepts
+- Writing cleaner and more organized code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tools and languages
+- C, C++, Python, Java, Git
+- Exploring backend workflows and development tooling
+
+## 🚀 Projects
+- I maintain a small set of projects that reflect what I’m learning
+- Each project focuses on clarity, structure, and incremental improvement
+
+## 📚 Ongoing goals
+- Improve problem-solving and implementation skills
+- Build more consistent project workflows
+- Document learning through code and small experiments
+
+## 🤝 Open to
+Learning-focused collaborations and meaningful technical discussions
